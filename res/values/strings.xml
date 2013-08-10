@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Background - danielme.com</string>
+    <string name="texto1">texto 1</string>
+    <string name="texto2">texto 2</string>
+    <string name="background">background</string>    
+
+</resources>
